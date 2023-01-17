@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+/* --공통 및 부트스트랩 class -- */
+body{
+	text-align: center;
+	/*임의*/
+	font-family: Georgia, "맑은 고딕", serif; 
+	/* background-image: url('../img/배경.png');
+	background-repeat: no-repeat;
+	background-size : 100% 20%;
+ */}
+thead{
+	text-align: center;
+}
+.container{
+	text-align: left;
+	font-family: ;
+	color: black;
+}
+/*헤더 네비*/
+.nav-pills{
+	font-weight: bold;
+	font-family: ;
+	color: black;
+}
+/*헤더이미지class*/
+.himg{
+	width: 200px;
+	height: 60px;
+}
+.abc{
+	background-image: url('resources/img/배경.png');
+	background-repeat: no-repeat;
+	background-size : 100% 20%;
+}
+
+
+/* -- 생성한 class 및 id -- */
+/*타이틀class*/
+.title{
+	font-weight: bold;
+	/*임의*/
+	font-family: Georgia, "맑은 고딕", serif; 
+}
+/*텍스트class*/
+.text{
+	text-align: left;
+	font-family: ;
+}
+/*이미지class*/
+.img{
+	width: 1150px;
+	height: 500px
+}
+/*카카오맵class*/
+#map{
+	width: 1000px;
+	height: 500px;	
+}
